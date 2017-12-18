@@ -1,0 +1,14 @@
+{
+  "name": "muradcoin",
+  "version": "0.0.2",
+  "description": "Simple BlockChain implementation in JS",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js"
+  },
+  "author": "Gustavo Murad <gustavomurad@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
